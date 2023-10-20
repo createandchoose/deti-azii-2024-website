@@ -32,3 +32,15 @@
 
 ```bash
 git clone https://github.com/createandchoose/deti-azii-2024-website.git
+```
+
+1. Перейдите в директорию проекта:
+cd your-repo
+2. Установите зависимости:
+3. npm install
+4. Запустите проект:
+5. npm run dev
+
+## Связаться
+
+Если у вас возникли вопросы или предложения, свяжитесь с нами по электронной почте: createandchoose@vk.com
