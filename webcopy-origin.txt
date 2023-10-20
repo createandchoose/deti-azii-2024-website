@@ -506,10 +506,6 @@ Uri: https://comprehensive-info-105531.framer.app/
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\index.htm
 Content Type: text/html
 
-Uri: https://events.framer.com/script
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\script
-Content Type: text/javascript
-
 Uri: https://fonts.gstatic.com/s/outfit/v11/QGYvz_MVcBeNP4NJtEtq.woff2
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\s\outfit\v11\QGYvz_MVcBeNP4NJtEtq.woff2
 Content Type: font/woff2
@@ -546,10 +542,6 @@ Uri: https://framerusercontent.com/images/BSZlVdIaXipFLiVUgQOgPTTl3T4.png?scale-
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\images\BSZlVdIaXipFLiVUgQOgPTTl3T4-1.png
 Content Type: image/png
 
-Uri: https://framerusercontent.com/images/iGk4x1NJSVgWzFvuQQADJp9I.png
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\images\iGk4x1NJSVgWzFvuQQADJp9I.png
-Content Type: image/png
-
 Uri: https://framerusercontent.com/images/qdcJjhZ2IIxykT2wXWqC14RLnU.png
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\images\qdcJjhZ2IIxykT2wXWqC14RLnU.png
 Content Type: image/png
@@ -562,55 +554,59 @@ Uri: https://framerusercontent.com/images/WSFwWZAjDipEMvrL3HvwUwKo2KU.png
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\images\WSFwWZAjDipEMvrL3HvwUwKo2KU.png
 Content Type: image/png
 
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-2GWCEH5R.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-2GWCEH5R.mjs
-Content Type: text/javascript
-
 Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-42U43NKG.mjs
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-42U43NKG.mjs
-Content Type: text/javascript
-
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-7WVG6N6I.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-7WVG6N6I.mjs
-Content Type: text/javascript
-
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-CEZCUMO6.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-CEZCUMO6.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-ELYU6EKT.mjs
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-ELYU6EKT.mjs
 Content Type: text/javascript
 
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-F2QVVYP7.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-F2QVVYP7.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-FFUKSOJA.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-FFUKSOJA.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-JRBIQ3JD.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-JRBIQ3JD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-MSM75HHJ.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-MSM75HHJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-ONTCLHH7.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-ONTCLHH7.mjs
+Content Type: text/javascript
+
 Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-SZSSFQYO.mjs
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-SZSSFQYO.mjs
 Content Type: text/javascript
 
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-U62N2JMR.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-U62N2JMR.mjs
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-XJ7UXQQW.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-XJ7UXQQW.mjs
 Content Type: text/javascript
 
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-XGIXKCH6.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-XGIXKCH6.mjs
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-YOET35EM.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-YOET35EM.mjs
 Content Type: text/javascript
 
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-XX7FOYSZ.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-XX7FOYSZ.mjs
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/kQDrXfyD4JXxwWdD_G99Dyl8BvY-kvDk_CxbNGeiSh4.HC7ENYD5.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\kQDrXfyD4JXxwWdD_G99Dyl8BvY-kvDk_CxbNGeiSh4.HC7ENYD5.mjs
 Content Type: text/javascript
 
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/chunk-XYYTV5CI.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\chunk-XYYTV5CI.mjs
-Content Type: text/javascript
-
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/preview_script0.25LTKHPC.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\preview_script0.25LTKHPC.mjs
-Content Type: text/javascript
-
-Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/QeYtekIZFxHdQ2RbhFTEFg35wdageZD7FwE_-TBsg9A.Q3L3LYJ3.mjs
-File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\QeYtekIZFxHdQ2RbhFTEFg35wdageZD7FwE_-TBsg9A.Q3L3LYJ3.mjs
+Uri: https://framerusercontent.com/sites/2oaJ7CRcDhhQPHKZCcOQwh/preview_script0.CRZMTU2Q.mjs
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\2oaJ7CRcDhhQPHKZCcOQwh\preview_script0.CRZMTU2Q.mjs
 Content Type: text/javascript
 
 Uri: https://framerusercontent.com/sites/icons/default-favicon.v3.png
 File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\sites\icons\default-favicon.v3.png
 Content Type: image/png
+
+Uri: https://link.storjshare.io/s/jufpg5djnowdyp5yxivv6rfdiiiq/main%2FДети Азии 2024.apk?download=1
+File Name: C:\Downloaded Web Sites\comprehensive-info-105531.framer.app\s\jufpg5djnowdyp5yxivv6rfdiiiq\Дети Азии 2024.apk
+Content Type: application/vnd.android.package-archive
 
