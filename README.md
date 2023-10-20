@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Проект "Дети Азии 2024"
 
-## Getting Started
+![Текст с описанием картинки](https://i.postimg.cc/wj7nCQ8Y/image.png)
 
-First, run the development server:
+Этот проект представляет собой лэндинг, связанный с событием "Дети Азии 2024", а также скачиванием соответствующего приложения.
+
+## Описание
+
+"Дети Азии 2024" - это международное мероприятие, в ходе которого дети со всего Азиатско-Тихоокеанского региона собираются для совместных действий, обучения и развития. Сайт-лэндинг создан для информирования о мероприятии и предоставления возможности скачать официальное приложение.
+
+## Технологии
+
+Проект разработан с использованием следующих технологий:
+
+- Next.js: фреймворк React для создания мощных веб-приложений.
+- HTML: язык разметки для веб-страниц.
+- CSS: язык стилей для определения внешнего вида элементов веб-страницы.
+- JavaScript: язык программирования для интерактивности веб-страницы.
+
+## Особенности
+
+Сайт-лэндинг предлагает следующие особенности:
+
+- Описание события "Дети Азии 2024" и его целей.
+- Информация о месте проведения и дате мероприятия.
+- Возможность скачать официальное приложение "Дети Азии 2024".
+- Контактная информация для связи с организаторами.
+
+## Установка
+
+1. Склонируйте репозиторий:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+git clone https://github.com/createandchoose/deti-azii-2024-website.git
